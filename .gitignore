@@ -164,3 +164,8 @@ cython_debug/
 # VS Code 
 *.DS_Store
 *.vscode/
+
+# Random
+*.docx
+*.pdf
+*.csv
