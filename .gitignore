@@ -168,3 +168,4 @@ cython_debug/
 # Random
 *.docx
 *.pdf
+*.csv
